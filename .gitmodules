@@ -8,4 +8,5 @@
 	shallow = true
 [submodule "block-experiments"]
 	path = block-experiments
-	url = git@github.com:Automattic/block-experiments.git
+	url = ../../Automattic/block-experiments.git
+	shallow = true
